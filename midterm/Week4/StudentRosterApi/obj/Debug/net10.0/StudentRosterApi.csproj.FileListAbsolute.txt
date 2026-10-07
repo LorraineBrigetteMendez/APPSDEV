@@ -1,0 +1,8 @@
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.csproj.AssemblyReference.cache
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.AssemblyInfoInputs.cache
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.AssemblyInfo.cs
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.csproj.CoreCompileInputs.cache
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.MvcApplicationPartsAssemblyInfo.cs
+c:\midterm\Week4\StudentRosterApi\obj\Debug\net10.0\StudentRosterApi.MvcApplicationPartsAssemblyInfo.cache
